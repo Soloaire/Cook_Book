@@ -13,3 +13,17 @@ C:\EXAM-WORK\SCHEF\SCHEF\obj\Debug\SCHEF.menu_form.resources
 C:\EXAM-WORK\SCHEF\SCHEF\obj\Debug\SCHEF.advanced_functionality_form.resources
 C:\EXAM-WORK\SCHEF\SCHEF\obj\Debug\SCHEF.products_in_stock_form.resources
 C:\EXAM-WORK\SCHEF\SCHEF\obj\Debug\SCHEF.Form2.resources
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\bin\Debug\SCHEF.exe.config
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\bin\Debug\SCHEF.exe
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\bin\Debug\SCHEF.pdb
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.csproj.SuggestedBindingRedirects.cache
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.advanced_functionality_form.resources
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.main_page.resources
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.menu_form.resources
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.products_in_stock_form.resources
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.Properties.Resources.resources
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.csproj.GenerateResource.cache
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.exe
+C:\Users\stani\OneDrive\Рабочий стол\Лабы Прог\4\Cook_Book\Cook_Book\SCHEF\SCHEF\obj\Debug\SCHEF.pdb

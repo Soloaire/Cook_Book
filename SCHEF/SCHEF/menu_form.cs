@@ -23,5 +23,11 @@ namespace SCHEF
             main_page mp = new main_page();
             mp.Show();
         }
+
+        private void menu_form_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

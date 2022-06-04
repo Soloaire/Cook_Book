@@ -40,9 +40,10 @@
             // 
             // Make_a_dinner_party
             // 
-            this.Make_a_dinner_party.Location = new System.Drawing.Point(1177, 12);
+            this.Make_a_dinner_party.Location = new System.Drawing.Point(1766, 18);
+            this.Make_a_dinner_party.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Make_a_dinner_party.Name = "Make_a_dinner_party";
-            this.Make_a_dinner_party.Size = new System.Drawing.Size(75, 23);
+            this.Make_a_dinner_party.Size = new System.Drawing.Size(112, 35);
             this.Make_a_dinner_party.TabIndex = 0;
             this.Make_a_dinner_party.Text = "Назад";
             this.Make_a_dinner_party.UseVisualStyleBackColor = true;
@@ -50,70 +51,77 @@
             // 
             // Create_a_menu_button
             // 
-            this.Create_a_menu_button.Location = new System.Drawing.Point(29, 84);
+            this.Create_a_menu_button.Location = new System.Drawing.Point(44, 129);
+            this.Create_a_menu_button.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Create_a_menu_button.Name = "Create_a_menu_button";
-            this.Create_a_menu_button.Size = new System.Drawing.Size(193, 71);
+            this.Create_a_menu_button.Size = new System.Drawing.Size(290, 109);
             this.Create_a_menu_button.TabIndex = 1;
             this.Create_a_menu_button.Text = "Сформировать меню";
             this.Create_a_menu_button.UseVisualStyleBackColor = true;
             // 
             // Make_a_dinner_party_button
             // 
-            this.Make_a_dinner_party_button.Location = new System.Drawing.Point(228, 84);
+            this.Make_a_dinner_party_button.Location = new System.Drawing.Point(342, 129);
+            this.Make_a_dinner_party_button.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Make_a_dinner_party_button.Name = "Make_a_dinner_party_button";
-            this.Make_a_dinner_party_button.Size = new System.Drawing.Size(193, 71);
+            this.Make_a_dinner_party_button.Size = new System.Drawing.Size(290, 109);
             this.Make_a_dinner_party_button.TabIndex = 2;
             this.Make_a_dinner_party_button.Text = "Составить званый ужин";
             this.Make_a_dinner_party_button.UseVisualStyleBackColor = true;
             // 
             // Generate_an_expense_invoice
             // 
-            this.Generate_an_expense_invoice.Location = new System.Drawing.Point(840, 561);
+            this.Generate_an_expense_invoice.Location = new System.Drawing.Point(1260, 863);
+            this.Generate_an_expense_invoice.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Generate_an_expense_invoice.Name = "Generate_an_expense_invoice";
-            this.Generate_an_expense_invoice.Size = new System.Drawing.Size(193, 71);
+            this.Generate_an_expense_invoice.Size = new System.Drawing.Size(290, 109);
             this.Generate_an_expense_invoice.TabIndex = 3;
             this.Generate_an_expense_invoice.Text = "Сформировать расходную накладную";
             this.Generate_an_expense_invoice.UseVisualStyleBackColor = true;
             // 
             // Order_restocking_button
             // 
-            this.Order_restocking_button.Location = new System.Drawing.Point(641, 561);
+            this.Order_restocking_button.Location = new System.Drawing.Point(962, 863);
+            this.Order_restocking_button.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Order_restocking_button.Name = "Order_restocking_button";
-            this.Order_restocking_button.Size = new System.Drawing.Size(193, 71);
+            this.Order_restocking_button.Size = new System.Drawing.Size(290, 109);
             this.Order_restocking_button.TabIndex = 4;
             this.Order_restocking_button.Text = "Заказать пополнение запасов";
             this.Order_restocking_button.UseVisualStyleBackColor = true;
             // 
             // Checking_stocks_button
             // 
-            this.Checking_stocks_button.Location = new System.Drawing.Point(1039, 561);
+            this.Checking_stocks_button.Location = new System.Drawing.Point(1558, 863);
+            this.Checking_stocks_button.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Checking_stocks_button.Name = "Checking_stocks_button";
-            this.Checking_stocks_button.Size = new System.Drawing.Size(193, 71);
+            this.Checking_stocks_button.Size = new System.Drawing.Size(290, 109);
             this.Checking_stocks_button.TabIndex = 5;
             this.Checking_stocks_button.Text = "Проверка запасов";
             this.Checking_stocks_button.UseVisualStyleBackColor = true;
             // 
             // number_of_visitors
             // 
-            this.number_of_visitors.Location = new System.Drawing.Point(209, 30);
+            this.number_of_visitors.Location = new System.Drawing.Point(314, 46);
+            this.number_of_visitors.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.number_of_visitors.Name = "number_of_visitors";
-            this.number_of_visitors.Size = new System.Drawing.Size(100, 20);
+            this.number_of_visitors.Size = new System.Drawing.Size(148, 26);
             this.number_of_visitors.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(26, 33);
+            this.label1.Location = new System.Drawing.Point(39, 51);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(148, 13);
+            this.label1.Size = new System.Drawing.Size(228, 20);
             this.label1.TabIndex = 6;
             this.label1.Text = "Введите число посетителей";
             // 
             // advanced_functionality_form
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.ClientSize = new System.Drawing.Size(1896, 1048);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.number_of_visitors);
             this.Controls.Add(this.Checking_stocks_button);
@@ -122,8 +130,10 @@
             this.Controls.Add(this.Make_a_dinner_party_button);
             this.Controls.Add(this.Create_a_menu_button);
             this.Controls.Add(this.Make_a_dinner_party);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "advanced_functionality_form";
             this.Text = "Расширенный функционал";
+            this.Load += new System.EventHandler(this.advanced_functionality_form_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

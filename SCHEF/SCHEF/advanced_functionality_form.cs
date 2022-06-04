@@ -24,6 +24,9 @@ namespace SCHEF
             mp.Show();
         }
 
-        
+        private void advanced_functionality_form_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
