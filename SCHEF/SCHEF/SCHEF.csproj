@@ -52,6 +52,7 @@
     <Compile Include="advanced_functionality_form.Designer.cs">
       <DependentUpon>advanced_functionality_form.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataBase.cs" />
     <Compile Include="main_page.cs">
       <SubType>Form</SubType>
     </Compile>
