@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>
+Курица с картофелем в духовке 
+
+Ингредиенты:
+- Курица
+- Картофель
+- Лимон
+- Чеснок
+- Масло
+
+Рецепт:
+
+Курицу промойте, просушите, выложите в
+форму.
+Смажьте лимонным соком,
+выдавите сок из лимона на курицу и в форму
+для запекания. 
+Половинки лимона можно вложить внутрь 
+курицы.
+Курицу смажьте солью, перцем, специями. 
+Пока курица маринуется, а мы займемся 
+картофелем. 
+Почистите картошку, разрежьте на половинки,
+выложите в кастрюлю, залейте водой 
+и посолите.
+Доведите до кипения и сразу слейте воду.
+Картошку выложите к курице. 
+Сбрызните курицу и картошку в форме для 
+запекания маслом,
+добавьте бульона, воды или вина, выложите
+травки. 
+Отправляйте курицу в разогретую до 
+200 градусов 
+духовку на 40 минут
+</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>
+Плов
+
+Ингредиенты:
+- Свинина
+- Рис
+- Лук
+- Морковь
+- Масло
+
+Рецепт:
+
+Нарежем на небольшие кусочки мясо,
+морковь и лук
+Наливаем в казан или кастрюлю масло и 
+разогреваем на сильном огне. 
+Бросим в разогретое масло немного лука и 
+обжарим его до темно-коричневого цвета.
+Затем убираем лук из казана. 
+Выкладываем в разогретое масло мясо. 
+Минуты через 3 перемешиваем и продолжаем
+обжаривать на сильном огне.
+Мясо обжарилось, добавляем лук и 
+перемешиваем. 
+Обжариваем минут 5-7. 
+А теперь добавим примерно полтора-два стакана
+горячей воды,
+чайную ложку соли и приправу для плова. 
+Даем покипеть минут 15-20 под крышкой на 
+среднем огне. 
+Тщательно промываем под проточной водой рис 
+Выкладываем промытый рис в казан. 
+Разравниваем рис и доливаем горячей воды. 
+Когда выкипит жидкость
+Делаем несколько дырок черенком ложки до 
+дна казана или кастрюли. 
+Уменьшаем огонь до маленького и готовим 
+20 минут. Затем выключаем огонь, и пусть плов стоит
+минут 15. 
+
+
+</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>
+Мясо по-французски
+
+Ингредиенты:
+- Курица
+- Шампиньоны
+- Лук
+- Сыр
+- Картофель
+
+Рецепт:
+
+Лук чистим, нарезаем тонкими кольцами и 
+выкладываем на слегка смазанный маслом
+ противень. 
+Картофель чистим, нарезаем тонкими 
+ломтиками и выкладываем на лук. 
+Картофель солим и перчим, выкладываем 
+на него слой фарша. 
+Солим, перчим еще раз. 
+На фарш укладываем тонко нарезанные 
+шампиньоны. 
+Наконец, сверху все засыпаем тертым 
+сыром и смазываем майонезом. 
+Запекаем 25-30 минут при 180 градусах. 
+</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>
+Рататуй
+
+Ингредиенты:
+- Баклажан
+- Помидор
+- Лук
+- Болгарский перец
+- Чеснок
+- Оливковое масло
+
+Рецепт:
+
+Подготовьте овощи. 
+Помидоры разделите на две равных порции, 
+одну из которых обдайте кипятком и очистите 
+от кожуры. 
+Сначала нужно приготовить соус. 
+Для этого порежьте мелко лук, обжарьте его 
+до полуготовности на 2 столовых ложках
+оливкового масла.
+Добавьте щепотку соли. 
+Помидоры без кожуры и болгарский перец 
+порежьте мелкими кубиками и добавьте к луку. 
+Обжарьте до мягкости всех овощей. 
+Кабачки, баклажаны и помидоры порежьте
+колечками одинаковой толщины, не более 5 мм.
+ Оливковое масло смешайте с давленым 
+чесноком и прованскими травами, добавьте 
+пару щепоток соли. На дно огнеупорной 
+формы выложите и разровняйте овощной 
+соус. Овощи посолите по вкусу, выложите
+ на соус,чередуя кабачок, баклажан и помидор. 
+Сверху щедро полейте ароматным маслом 
+с чесноком и травами. 
+Накройте фольгой форму, отправьте её на 
+30 минут в духовку, температура — 180 градусов. 
+Снимите фольгу и запекайте еще 20 минут. 
+
+</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>
+Шаурма
+
+Ингредиенты:
+- Лаваш
+- Помидор
+- Огурец
+- Капуста
+- Кетчуп
+- Майонез
+- Курица
+- Масло
+
+Рецепт:
+
+Подготовьте продукты. 
+Вымойте мясо и овощи. 
+Нашинкуйте капусту мелко. 
+Посолите немного.
+ Порежьте дольками помидор и соломкой 
+огурец. 
+Для соуса смешайте майонез с кетчупом и
+ щепоткой черного перца.
+ Куриное филе посолите, поперчите, 
+обжарьте на среднем огне под крышкой с
+ двух сторон до готовности. 
+Снимите с огня. Расстелите лаваш на 
+рабочем столе. Центр щедро смажьте
+соусом. Распределите капусту, помидор,
+огурец. Порежьте готовую курочку, на одну
+шаурму уходит половинка кусочка. 
+Сверху полейте соусом немного. Заверните 
+конвертиком так, чтобы бока были закрыты. 
+Постарайтесь плотно свернуть шаурму и 
+отправьте ее на чистую и сухую сковороду 
+(если есть гриль, это будет лучшим решением) 
+на несколько минут до зарумянивания с 
+обеих сторон. 
+</value>
+  </data>
+</root>
